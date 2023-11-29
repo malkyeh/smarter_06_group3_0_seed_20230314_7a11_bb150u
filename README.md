@@ -1,2 +1,2 @@
-# smarter_06_group3_0_seed_20230314_7a11_bb150u
-Rice disease hyperspectral image dataset(水稻病害高光譜影像資料集)
+# Rice disease hyperspectral image dataset(水稻病害高光譜影像資料集)
+針對不同波長(470-900nm)進行感染水稻葉芽線蟲之種子影像蒐集。
