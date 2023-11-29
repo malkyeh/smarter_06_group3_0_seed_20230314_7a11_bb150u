@@ -1,0 +1,2 @@
+# smarter_06_group3_0_seed_20230314_7a11_bb150u
+Rice disease hyperspectral image dataset(水稻病害高光譜影像資料集)
